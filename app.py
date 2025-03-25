@@ -35,7 +35,7 @@ st.markdown(f'''
             color: white;
         }}
         h1, h2, h3 {{
-            color: #4B0082;
+            color: #000000;
         }}
     </style>
 ''', unsafe_allow_html=True)
