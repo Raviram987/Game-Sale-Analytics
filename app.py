@@ -15,7 +15,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-
 # Custom CSS for Styling with Background Image
 st.markdown(f'''
     <style>
@@ -25,7 +24,7 @@ st.markdown(f'''
             font-family: 'Arial', sans-serif;
         }}
         .main {{
-            background-color: balck;
+            background-color: black;
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
@@ -35,7 +34,7 @@ st.markdown(f'''
             color: white;
         }}
         h1, h2, h3 {{
-            color: #000000;
+            color: black !important;
         }}
     </style>
 ''', unsafe_allow_html=True)
