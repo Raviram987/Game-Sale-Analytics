@@ -27,7 +27,7 @@ st.markdown(f'''
             background-color: black;
             padding: 20px;
             border-radius: 10px;
-            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0);
         }}
         .sidebar .sidebar-content {{
             background-color: #000000;
