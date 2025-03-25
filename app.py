@@ -31,7 +31,7 @@ st.markdown(f'''
             box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
         }}
         .sidebar .sidebar-content {{
-            background-color: #4B0082;
+            background-color: #000000;
             color: white;
         }}
         h1, h2, h3 {{
