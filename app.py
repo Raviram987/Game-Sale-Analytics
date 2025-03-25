@@ -7,7 +7,7 @@ st.markdown(
     f"""
     <style>
         .stApp {{
-            background: url("https://i.pinimg.com/736x/4d/bb/67/4dbb672961bf3655a596ca8c707d5928.jpg") no-repeat center center fixed;
+            background: url("") no-repeat center center fixed;
             background-size: cover;
         }}
     </style>
@@ -20,7 +20,7 @@ st.markdown(
 st.markdown(f'''
     <style>
         body {{
-            background: url("https://media.wired.com/photos/5fc597f0a0c817edec9eeaf8/master/w_1920,c_limit/games_streaming.jpg") no-repeat center center fixed;
+            background: url("") no-repeat center center fixed;
             background-size: cover;
             font-family: 'Arial', sans-serif;
         }}
